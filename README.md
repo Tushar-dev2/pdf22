@@ -1,1 +1,2 @@
-![PDF Document](Profile.pdf)
+![Profile](Profile.pdf)
+
